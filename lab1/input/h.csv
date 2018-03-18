@@ -1,5 +1,22 @@
 id,desc,val
-1,at least 2,2
-2,at least 2,2
-3,at least 40%,0
-4,at least 40%,0
+1,cnt by period,8
+2,cnt by period,10
+3,cnt by period,22
+4,cnt by period,15
+5,cnt by period,10
+6,cnt by period,20
+7,cnt by period,16
+8,cnt by period,8
+9,at least 2,2
+10,at least 2,2
+11,at least 40%,0
+12,at least 40%,0
+13,positive constraint,0
+14,positive constraint,0
+15,positive constraint,0
+16,positive constraint,0
+17,positive constraint,0
+18,positive constraint,0
+19,positive constraint,0
+20,positive constraint,0
+21,positive constraint,0
