@@ -11,12 +11,12 @@ id,desc,val
 10,at least 2,2
 11,at least 40%,0
 12,at least 40%,0
-13,positive constraint,0
-14,positive constraint,0
-15,positive constraint,0
-16,positive constraint,0
-17,positive constraint,0
-18,positive constraint,0
-19,positive constraint,0
-20,positive constraint,0
-21,positive constraint,0
+13,positive constraint,1
+14,positive constraint,1
+15,positive constraint,1
+16,positive constraint,1
+17,positive constraint,1
+18,positive constraint,1
+19,positive constraint,1
+20,positive constraint,1
+21,positive constraint,1
